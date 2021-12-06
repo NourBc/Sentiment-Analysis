@@ -2,7 +2,7 @@
 
 The data is a CSV with emoticons removed. The data file format has 6 fields:
 
-the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)
+the polarity of the tweet (-1= negative, 0 = neutral, 1 = positive)
 
 the id of the tweet (2087)
 
