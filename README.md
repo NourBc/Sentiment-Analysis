@@ -1,4 +1,6 @@
-# Sentiment-AnalysisSome information about the data set
+# Sentiment-Analysis
+
+Some information about the data set
 
 The data is a CSV with emoticons removed. The data file format has 6 fields:
 
